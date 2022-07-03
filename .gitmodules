@@ -1,0 +1,9 @@
+[submodule "thirdparty/rcl"]
+	path = thirdparty/rcl
+	url = https://github.com/ros2/rcl.git
+[submodule "thirdparty/rcutils"]
+	path = thirdparty/rcutils
+	url = https://github.com/ros2/rcutils.git
+[submodule "thirdparty/rmw"]
+	path = thirdparty/rmw
+	url = https://github.com/ros2/rmw.git
